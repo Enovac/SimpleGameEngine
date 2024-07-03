@@ -29,3 +29,5 @@ Editing Mode
 Notes
 
     This game is still a work in progress.
+    Edit Player,Edit Entities,Load Entities,Load Objects,Edit Objects are not yet implemented
+    Screen Size is still being fixed
